@@ -1,4 +1,4 @@
-# Multilacunarity-ImageJ-Fiji-Plugin
+# Multilacunarity (ImageJ/Fiji plugin)
 Multilacunarity Computations for Binary Images (ImageJ/Fiji plugin)
 
 Version 2.1.2 | ImageJ / Fiji plugin
