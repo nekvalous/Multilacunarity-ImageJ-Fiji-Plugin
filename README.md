@@ -4,7 +4,7 @@ Version 2.1.2 | ImageJ / Fiji plugin
 
 
 
-<img src="binmap.png" alt="OPS illustration" width="233">
+<img src="Binmap.png" alt="Binary map" width="233">
 
 
 
