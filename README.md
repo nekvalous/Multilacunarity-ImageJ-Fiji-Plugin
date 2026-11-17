@@ -12,7 +12,7 @@ Version 2.1.2 | ImageJ / Fiji plugin
 INSTALLATION
 
 1. Close ImageJ/Fiji.
-2. Copy Multilacunarity_2.1.2.jar into its plugins folder.
+2. Copy Multilacunarity.jar into its plugins folder.
 3. Remove any older Multilacunarity plugin JAR from that folder.
 4. Start ImageJ/Fiji.
 5. Open Plugins > Multilacunarity > Multilacunarity computations for binary images.
